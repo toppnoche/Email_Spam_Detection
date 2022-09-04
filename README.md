@@ -20,6 +20,9 @@ In this repo we have focused on reducing the (false positive)
  *Naive Bayes classifier is used to train the data on Tokens
 
  *And finally it is tested on test dataset
+
+ ***Similar steps were used in the 'advanced_spam_detection' but ensemble learning approach was used to minimize the false positive of spam which became 0 after implementation of ensemble learning.
+ As wrong classification of ham email into spam is more dangerous.
 ## Authors
 
 - [toppnoche](https://www.github.com/toppnoche)
