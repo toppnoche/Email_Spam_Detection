@@ -23,6 +23,10 @@ In this repo we have focused on reducing the (false positive)
 
  # Similar steps were used in the 'advanced_spam_detection' but ensemble learning approach was used to minimize the false positive of spam which became 0 after implementation of ensemble learning.As wrong classification of ham email into spam is more dangerous.
  
+ ## Novelty
+
+ Ensemble Learning is used in such a way that the 'False Positives' are minimized which is top priority in spam detection
+
 ## Authors
 
 - [toppnoche](https://www.github.com/toppnoche)
